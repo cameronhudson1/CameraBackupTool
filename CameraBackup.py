@@ -2,7 +2,7 @@ import shutil
 import os
 import datetime
 
-settingsPath =
+settingsPath = "C:\\Users\\cmrnh\\OneDrive\\Documents\\CameraBackupSettings\\CameraBackup"
 deleteOriginals = False;
 
 
